@@ -1,7 +1,7 @@
 ﻿Simulations and population history lab
 ======================================
 
-Rasmus Heller, Feb 2020
+Rasmus Heller
 
 **Program**
 
